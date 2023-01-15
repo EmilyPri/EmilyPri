@@ -10,6 +10,6 @@ You can see some of the projects I've worked on during my web development bootca
 
 ## Projects
 
-(Weather App) [https://github.com/SchoolOfCode/bc13_w12d5_hackathon_react-typescript-amina-em]
+[Weather App] (https://github.com/SchoolOfCode/bc13_w12d5_hackathon_react-typescript-amina-em)
 
 
