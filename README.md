@@ -10,6 +10,6 @@ You can see some of the projects I've worked on during my web development bootca
 
 ## Projects
 
-[Weather App](https://github.com/SchoolOfCode/bc13_w12d5_hackathon_react-typescript-amina-em)
+[Weather App](https://github.com/SchoolOfCode/bc13_w12d5_hackathon_react-typescript-amina-em) : Made in collaboration with a friend, this 5-day weather forecast app is built using Typescript and React and styled with CSS.
 
 
