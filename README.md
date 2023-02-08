@@ -14,6 +14,6 @@ You can see some of the projects I've worked on during my web development bootca
 
 ☔ [Weather App](https://github.com/SchoolOfCode/bc13_w12d5_hackathon_react-typescript-amina-em) : Made in collaboration with a friend, this 5-day weather forecast app is built using Typescript and React and styled with CSS.
 
-🚀 [Cosmic Calculations](https://github.com/SchoolOfCode/bc13_final-project_front-end-room_10_the_recruitables/pull/105) : Built over the course of 4 weeks in a team of 6 using agile methodology, this educational maths platform makes use of a tech stack incorporating Node.js, React.js and CSS. It is also tested using Cypress, Supertest and React Testing Library.
+🚀 [Cosmic Calculations](https://github.com/SchoolOfCode/bc13_final-project_front-end-room_10_the_recruitables) : Built over the course of 4 weeks in a team of 6 using agile methodology, this educational maths platform makes use of a tech stack incorporating Node.js, React.js and CSS. It is also tested using Cypress, Supertest and React Testing Library.
 
 
